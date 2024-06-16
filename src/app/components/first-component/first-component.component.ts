@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class FirstComponentComponent {
 
-  name: string = "Matheus";
+  name: string = "Matheus Edivaldo";
   age: number = 18;
   job = "Junior programmer";
   hobbies = ["Ver Filmes", "Treinar"];
