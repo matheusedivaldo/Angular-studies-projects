@@ -1,3 +1,9 @@
-p {
-    color: blueviolet;
+.title{
+    background: black;
+    color: #cc4949;
+    padding: 20px;
+}
+
+p{
+    padding: 30px;
 }
