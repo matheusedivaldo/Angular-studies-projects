@@ -4,6 +4,13 @@
   font-family: Verdana;
 }
 
-a {
-  color: chocolate;
+/* ajustes para aulas */
+body {
+  padding-bottom: 500px;
+}
+
+.class {
+  border-bottom: 1px solid rgb(115, 255, 0);
+  padding: 2em;
+  margin-bottom: 1em;
 }
